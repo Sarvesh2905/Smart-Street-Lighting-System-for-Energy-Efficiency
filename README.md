@@ -93,3 +93,34 @@ For an actual highway deployment, the basic IR module would be replaced with sen
 ## 8. Prototype Code
 
 See `smart_street_light.ino` for the Arduino sketch implementing the dim/bright occupancy logic described above.
+
+## 9. Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./IISF.jpg" width="400"/><br/>
+      <b>Presenting at IISF, IIT Guwahati</b>
+    </td>
+    <td align="center">
+      <img src="./Panel%20Review.jpg" width="400"/><br/>
+      <b>Panel Review / Judging Round</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Prototype.jpg" width="400"/><br/>
+      <b>Working Prototype</b>
+    </td>
+    <td align="center">
+      <img src=".Dr. S. Somanath.(ISRO Chairman).jpg" width="400"/><br/>
+      <b>Dr. S. Somanath.(ISRO Chairman), IISF 2024</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./Certificate.jpg" width="400"/><br/>
+      <b>Certificate of Recognition – Top 5, Vikshit Bharat S&T Hackathon</b>
+    </td>
+  </tr>
+</table>
