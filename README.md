@@ -113,7 +113,7 @@ See `smart_street_light.ino` for the Arduino sketch implementing the dim/bright 
       <b>Working Prototype</b>
     </td>
     <td align="center">
-      <img src=".Dr. S. Somanath.(ISRO Chairman).jpg" width="400"/><br/>
+      <img src="./Dr S Somanath(ISRO Chairman).jpg" width="400"/><br/>
       <b>Dr. S. Somanath.(ISRO Chairman), IISF 2024</b>
     </td>
   </tr>
